@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleMagnifier</string>
+
+    <string name="test_text">At Google I/O there were a lot of new announcements around the latest version of Android, P. One of these announcements was the new Magnifier functionality—a feature that will make it easier to view and select content that the magnifier is currently being shown for. In this article we’re going to take a quick dive into what this magnifier is and how we can use it on our own view components within our applications</string>
+</resources>
