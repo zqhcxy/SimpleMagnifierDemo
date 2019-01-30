@@ -1,6 +1,6 @@
 # SimpleMagnifierDemo
 
-## 简单的官方工具类，核心代码：
+## 简单的官方工具类使用，核心代码：
 ```java
  mTextView.setOnTouchListener(new View.OnTouchListener() {
                 @RequiresApi(api = 28)
